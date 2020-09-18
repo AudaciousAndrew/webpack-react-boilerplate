@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: rgb(93, 105, 109);
+  color: lightcoral;
+  transition: all 4s ease;
+  transform: scale(1.2);
+}
+
+::placeholder {
+  color: gray;
+}
